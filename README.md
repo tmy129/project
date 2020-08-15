@@ -17,3 +17,6 @@ Run cmd: python3 MultiCore_LDA.py
 ## unit_test_api.py
 
 1. Performe three unit tests - model, api, and logging
+- model unit test: check if gets return value
+- api unit test: check if gets return value
+- logging unit test: check app starts running
