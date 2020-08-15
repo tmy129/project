@@ -9,6 +9,10 @@ Run cmd: python3 MultiCore_LDA.py
 3. Compare model performance base on coherence values and output value chart
 4. Select and save the best model (model.pkl)
 
+## dockerfile
+
+1. Execute Run.py in docker
+
 ## Run.py
 
 1. A Flask API that gets best model coherence value
