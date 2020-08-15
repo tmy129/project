@@ -12,7 +12,7 @@ Run cmd: python3 MultiCore_LDA.py
 ## Run.py
 
 1. A Flask API that gets best model coherence value
-2. Include logging -> 
+2. Include api logging
 
 ## unit_test_api.py
 
